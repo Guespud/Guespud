@@ -1,16 +1,38 @@
-### Hi there 👋
+Mi nombre es Alejandro Guespud soy un entusiasta de el desarrollo , tecnólogo SENA en Análisis Y desarrollo de Software, he adquirido mucha experiencia a través de las tareas y actividades del día a día.
 
-<!--
-**Guespud/Guespud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mis habilidades de frontend son:
+✓ HTML, CSS, JavaScript
+✓ Reactjs, Hooks
 
-Here are some ideas to get you started:
+Mis habilidades de backend son:
+✓ SpringBoot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mis habilidades de base de datos son:
+✓ MySQL, PostgreSQL
+✓ Firebase
+
+Mis habilidades de CMS son:
+✓ Desarrollo de Wordpress con Elementor
+
+Otras habilidades:
+✓ Git, Github
+✓ SCRUM
+✓Stylus
+✓Sass
+✓ Firebase, Netlify
+
+**Apps y Herramientas que uso:**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Js.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Visual.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Sass.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Bootstrap.png"></code>
+
+## Donde me puedes encontrar
+
+Personal<br/>
+**[Instagram](https://www.instagram.com/alejandro_guespud/)**<br/>
+**[linkedin](https://www.linkedin.com/in/alejandro-guespud/)**
