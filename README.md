@@ -6,6 +6,7 @@ Mis habilidades de frontend son:
 
 Mis habilidades de backend son:
 ✓ SpringBoot
+✓ PHP
 
 Mis habilidades de base de datos son:
 ✓ MySQL, PostgreSQL
